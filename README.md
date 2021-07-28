@@ -14,6 +14,7 @@ I am experimenting with standard models:<br/>
 - Tensorflow: DNN, CNN models<br/>
 <br/>
 Part 2<br/>
+<br/>
 I am testing RESNET-9 and RESNET-50 model created by Tensorflow. Both model reaches pretty good results, TF-RESNET-9 reached 95% and TF-RESNET-50 carried out 97% accuracy.
 <br/>
 Part 3<br/>
