@@ -7,7 +7,7 @@ For this project I used 465 images for training dataset, 101 pictures for valida
 <br/>
 In this first part I use models:
 - Pytorh: CNN, Resnet9 models
-- Tensorflow: DNN, CNN models
-
-Part 2 of this project:  https://github.com/vbanai/Multi-label-classification_DOLPHIN_HORSE_Part2_Pytroch_Dataaugmentation_TransferL
+- Tensorflow: DNN, CNN models<br/>
+<br/>
+Part 2 of this project:  https://github.com/vbanai/Multi-label-classification_DOLPHIN_HORSE_Part2_Pytroch_Dataaugmentation_TransferL <br/>
 Part 3 of this project:  https://github.com/vbanai/Multi-label-classification_DOLPHIN_HORSE_Part3_TF_Resnet9_50_models
