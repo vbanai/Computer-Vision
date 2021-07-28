@@ -7,17 +7,14 @@ For this project I used 465 images for training dataset, 101 pictures for valida
 <br/>
 With Pytorch resnet9 model (you can find the model in part 2 of the project) I could reach 100%. Regarding Tensorflow  I could reach 97% accuracy on the validation dataset using resnet50 model.<br/>
 <br/>
-<br/>
 Part 1<br/>
 <br/>
 I am experimenting with standard models:<br/>
 - Pytorh: CNN, Resnet9 models<br/>
 - Tensorflow: DNN, CNN models<br/>
 <br/>
-<br/>
 Part 2<br/>
 I am testing RESNET-9 and RESNET-50 model created by Tensorflow. Both model reaches pretty good results, TF-RESNET-9 reached 95% and TF-RESNET-50 carried out 97% accuracy.
-<br/>
 <br/>
 Part 3<br/>
 <br/>
