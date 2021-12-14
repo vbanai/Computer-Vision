@@ -1,4 +1,4 @@
-MULTILABEL CLASSIFICATION PROJECT <br/>
+1.) MULTILABEL CLASSIFICATION PROJECTS <br/>
 <br/>
 As most of the machine learning clinics on classification tasks work with MNIST and Cifar10 dataset which are known to be easier to use for training, I was curious
 what results can be achieved on dataset which contains relatively small number of images downloaded from the internet, and on the images you can detect more objects at the same time, not just one (multilabel classification). <br/>
@@ -22,7 +22,7 @@ Part 3<br/>
 In this part I am focusing on PYTORCH-RESNET-9 model presented in part 1, extending it and trying out various technics such as data-augmentation, normalization, batch-normalization, weight decay, gradient cliping, learning rate scheduling. This model performs the best, I reached 100% accuracy on the validity dataset and 99% on the test dataset. In the end I am doing experiment with transfer learning but not with good result. (With tensorflow, VGG16 pretrained model I reached better result earlier, but it is not included in this project) <br/>
 <br/>
 
-4.) MULTICLASS CLASSIFICATION BY WEBCAM</br>
+2.) MULTICLASS CLASSIFICATION BY WEBCAM</br>
 </br>
 The aim of the "Numbers_Logistic Regression_FeedForward" project is to identify hand-written single digits in a   </br>
 white papper shown to the webcam of the computer. For training I used MNIST dataset, which contains single </br>
