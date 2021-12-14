@@ -32,7 +32,7 @@ for the loss function. I boosted the model for better result with 2 hidden linea
 unit after a hidden layer to ignore the negative values to use non linear transformation to the inputs.</br> 
 Accuracy after 20 epochs is around 95%, which is quite good result. For using the webcam for the test images </br>
 I used a JavaScript code. The only trick I had to perform to get good predictions is to make the webcam image </br>
-into inverse (1-values) as the training images had black background and white digits while I write the digits</br>
+into inverse (1-values) as the training images had black background and white digits while I wrote the digits</br>
 by a pen on a white paper. The model works with around 95% accuracy.
 
 
